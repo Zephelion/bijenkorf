@@ -10,7 +10,6 @@ const datum = document.querySelector("header > div > a");
 const searchBar = document.querySelector(".search");
 const list = document.querySelector(".list");
 
-console.log("wagwan people11");
 
 searchBar.addEventListener("input", (e) => {
     if(e.target.value !== ""){

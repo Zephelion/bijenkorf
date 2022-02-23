@@ -72,6 +72,11 @@ ul{
   list-style-type: none;
 }
 
+button{
+  border: none;
+  background-color: transparent;
+}
+
 ul.mobile{
   display: flex;
   flex-direction: column;
